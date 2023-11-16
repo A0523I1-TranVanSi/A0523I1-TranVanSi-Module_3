@@ -1,0 +1,31 @@
+ /* body{
+            width: 500px;
+        } */
+ h2 {
+     border-bottom: 1px solid rgb(138, 134, 134);
+ }
+
+ p {
+     font-family: Arial;
+     font-size: 10px;
+     text-indent: 50px;
+
+ }
+
+ p.header {
+     text-indent: 0%;
+     margin-top: -18px;
+ }
+
+ span {
+     color: blue;
+ }
+
+ span.K1D1 {
+     font-weight: 700;
+     color: black;
+ }
+
+ span.K1D2 {
+     color: rgb(15, 212, 212);
+ }
